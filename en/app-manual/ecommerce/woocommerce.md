@@ -35,9 +35,9 @@ Akaunting app will get and send data automatically between Akaunting and WooComm
 
 **Payments Account**: The bank account that payments will be attached to.
 
-**2-way Create/Update**: Select whether to sync the *create* and *update* actions between Akaunting and WooCommerce for categories, products (items), tax rates, and orders. In other words, when a product is created/updated in WooCommerce, it will also be created/updated in Akaunting, automatically. Same for vice-versa.
+**2-way Create/Update**: Select whether to sync the *create* and *update* actions between Akaunting and WooCommerce for categories, products (items), tax rates, and orders. In other words, when a product is created/updated in WooCommerce, it will also be created/updated in Akaunting, automatically. Same for vice-versa. If it is turned off, the woocommerce updates will be pulled by Akauntng, but changes on Akaunting will not be pushed to WooCommerce.
 
-**2-way Delete**: Select whether to sync the *delete* action between Akaunting and WooCommerce for categories, products (items), tax rates, and orders. In other words, when a product is deleted in WooCommerce, it will also be deleted in Akaunting, automatically. Same for vice-versa.
+**2-way Delete**: Select whether to sync the *delete* action between Akaunting and WooCommerce for categories, products (items), tax rates, and orders. In other words, when a product is deleted in WooCommerce, it will also be deleted in Akaunting, automatically. Same for vice-versa. If it is turned off, the woocommerce updates will be pulled by Akauntng, but changes on Akaunting will not be pushed to WooCommerce.
 
 ![akaunting app settings](_images/woocommerce-settings-4.png)
 
